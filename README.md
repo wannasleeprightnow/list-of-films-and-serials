@@ -45,6 +45,7 @@
 
 ```bash
 git clone https://github.com/wannasleeprightnow/list-of-films-and-serials list-of-films-and-serials
+cd list-of-films-and-serials/
 ```
 
 Создание и активация виртуального окружения:
