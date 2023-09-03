@@ -10,7 +10,7 @@
 ### Авторизация и регистрация
 Пользователь создает аккаунт/заходит в уже созданный.
 
-![](https://github.com/wannasleeprightnow/list-of-films-and-serials/raw/main/images/sign_in_sign_up.png)
+![](https://github.com/wannasleeprightnow/list-of-films-and-serials/raw/main/images/signin_signup.png)
 
 ### Добавление
 Далее он может добавить фильм/сериал в список. Список делится на следующие состояния:
